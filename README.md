@@ -1,6 +1,4 @@
 # Run Pi Network Browser On Desktop
-Pi Desktop Browser
-
 Step by step
 
 First add the tampermonkey extension to your browser; tested on chrome and firefox.
