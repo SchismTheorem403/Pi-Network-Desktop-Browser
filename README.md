@@ -8,7 +8,7 @@ https://addons.mozilla.org/en-US/firefox/addon/get-tamper-monkey/?utm_source=add
 
 Tampermonkey Ext. link for Chrome: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?authuser=0&utm_source=app-launcher
 
-Download the zip file containing the scripts > (Pi Desktop Browser Instructions).
+Download the zip file containing the scripts > (Pi Desktop Browser Instructions and Scripts).
 - Add/enable both .js scripts in Tampermonkey Using its Utilities and Dashboard Screens.
 
 Accessing The Pi Browser From Your Desktop:
