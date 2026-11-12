@@ -7,8 +7,7 @@ tampermonkey firefox link: https://addons.mozilla.org/en-US/firefox/addon/get-ta
 
 tampermonkey Chrome web store link: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?authuser=0&utm_source=app-launcher
 - Add/enable both .js scripts in tampermonkey. Download the zip file containing the scripts from my Google Drive using the link provided below.
-https://drive.google.com/file/d/1oOwgqQTDGFOgz8oOxjqbufkg02bFJWtZ/view?usp=drive_link
-
+https://drive.google.com/file/d/1CjVS_JzY6YxG11K1RNudMjo1wRjCIZlQ/view?usp=sharing
 - Open the first link listed below (HOME page) and connect your desktop browser to your Pi account using the node api when prompted (open mining app on phone, menu, node). After successfully linking your browser with the node API code you should now be able to access your Pi account through a Pi Desktop Browser (within a Chrome or Firefox tab like any web2 site) by using the links below. Using the first link should take you to your Pi Browser home page with the Pi Browser apps list. You can now use your desktop browser as you would your Pi Browser (mobile).
 
 Pi Desktop Browser Links
